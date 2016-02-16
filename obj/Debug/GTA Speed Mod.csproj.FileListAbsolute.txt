@@ -1,0 +1,6 @@
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\GTA Speed Mod\GTA Speed Mod\obj\Debug\GTA Speed Mod.csprojResolveAssemblyReference.cache
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\GTA Speed Mod\GTA Speed Mod\bin\Debug\GTA Speed Mod.dll
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\GTA Speed Mod\GTA Speed Mod\bin\Debug\GTA Speed Mod.pdb
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\GTA Speed Mod\GTA Speed Mod\bin\Debug\ScriptHookVDotNet.dll
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\GTA Speed Mod\GTA Speed Mod\obj\Debug\GTA Speed Mod.dll
+F:\Documents\GitHubVisualStudio\Dynamic-Dj-Dekstop-Source\GTA Speed Mod\GTA Speed Mod\obj\Debug\GTA Speed Mod.pdb
